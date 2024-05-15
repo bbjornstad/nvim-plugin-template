@@ -1,5 +1,5 @@
 base: lua51
-name: .selene-schema
+name: .nvim-lib
 globals:
   after_each:
     args:

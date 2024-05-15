@@ -1,4 +1,4 @@
-std = ".nvim-lib"
+std = "lua51+.nvim-lib"
 
 [lints]
 mixed_table = "allow"
